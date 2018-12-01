@@ -15,4 +15,4 @@ const generatePlayerBoard = (numberOfRows, numberOfColumns) => {
 
 // console.log(generatePlayerBoard(3,3));
 // console.log(generatePlayerBoard(5,5));
-console.log(generatePlayerBoard(10,10));
+// console.log(generatePlayerBoard(10,10));
